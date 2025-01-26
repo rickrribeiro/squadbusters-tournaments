@@ -1,0 +1,2 @@
+export db as json fixture
+add legacy tournment model para os torneios antigos que ja passaram. deixar no formato do PlayerMatchInline, mas sem o limite de 10 e opção de gema ser -
