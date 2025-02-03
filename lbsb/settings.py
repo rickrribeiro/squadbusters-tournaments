@@ -26,7 +26,12 @@ SECRET_KEY = "django-insecure-nv4^fj@dv%-)@5q+agc%#687$ep#an_+$m2+zu-q6!t%af2ze1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['d5e7-190-43-252-136.ngrok-free.app', 'localhost', '127.0.0.1']
+ #depois q terminar de desenvolver tudo tirar TODO
+CORS_ALLOW_ALL_ORIGINS = True
+CSRF_TRUSTED_ORIGINS = [
+    'https://d5e7-190-43-252-136.ngrok-free.app'
+]
 
 
 # Application definition
@@ -38,12 +43,13 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "tournment"
+    "tournament"
 ]
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
+    'corsheaders.middleware.CorsMiddleware',
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
     "django.contrib.auth.middleware.AuthenticationMiddleware",
@@ -118,6 +124,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
 STATIC_URL = "static/"
+STATIC_ROOT = MEDIA_ROOT = os.path.join(BASE_DIR, 'static')
 # Configurações de mídia
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')

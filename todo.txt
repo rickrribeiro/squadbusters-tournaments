@@ -1,2 +1,13 @@
 export db as json fixture
-add legacy tournment model para os torneios antigos que ja passaram. deixar no formato do PlayerMatchInline, mas sem o limite de 10 e opção de gema ser -
+add legacy tournament model para os torneios antigos que ja passaram. deixar no formato do PlayerMatchInline, mas sem o limite de 10 e opção de gema ser -
+
+desempate por gema
+
+all tournments de um Player
+
+quantidade de partidas q o player jogou no torneio ex 4/5
+
+
+botar p fzr backups constantes - pega a data do ultimo backup com uma task, botar logs de alterações, criar users admin p cada pessoa
+
+fazer a posição por gemas e só botar a posição de quem foi ripado

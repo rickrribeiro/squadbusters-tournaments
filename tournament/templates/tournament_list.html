@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tournament list</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Lista de torneios</h1>
+    <h2>Tabela</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Tipo</th>
+                <th>Data</th>
+                <th>Nome</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for tournament in tournaments %}
+                <tr>
+                    <td>{{ tournament.tournament_type }}</td>
+                    <td>{{ tournament.date }}</td>
+                    <td>{{ tournament.name }}</td>
+                    <td><a href="https://d5e7-190-43-252-136.ngrok-free.app/api/tournament/{{ tournament.id }}/details">Link</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

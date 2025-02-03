@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tournament Details</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>{{ tournament.name }}</h1>
+    <p><strong>Tipo:</strong> {{ tournament.type }}</p>
+    <p><strong>Data:</strong> {{ tournament.date }}</p>
+    {% comment %} <p><strong>Clan 1:</strong> {{ tournament.clan1 }}</p>
+    <p><strong>Clan 2:</strong> {{ tournament.clan2 }}</p> {% endcomment %}
+
+    <h2>Tabela</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Jogador</th>
+                <th>Pontos</th>
+                <th>Kills</th>
+                <th>Mortes</th>
+                <th>Gemas</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for player in player_scores %}
+                <tr>
+                    <td>{{ player.nick }}</td>
+                    <td>{{ player.points }}</td>
+                    <td>{{ player.kills }}</td>
+                    <td>{{ player.deaths }}</td>
+                    <td>{{ player.gems }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
