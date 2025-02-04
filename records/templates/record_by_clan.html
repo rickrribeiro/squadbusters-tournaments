@@ -24,7 +24,34 @@
 </head>
 <body>
     <h1>Lista de recordes</h1>
+  
+    {% for clan, records in records_by_clan.items %}
+        <h2>Clã: {{ clan }}</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Tipo</th>
+                    <th>Player</th>
+                    <th>Clã</th>
+                    <th>Quantidade</th>
+                    <th>Data</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for record in records %}
+                    <tr>
+                        <td>{{ record.record_type }}</td>
+                        <td>{{ record.player }}</td>
+                        <td>{{ record.clans|join:", " }}</td>
+                        <td>{{ record.value }}</td>
+                        <td>{{ record.date }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endfor %}
 
+    <h2>Sem Clã</h2>
     <table>
         <thead>
             <tr>
@@ -36,17 +63,11 @@
             </tr>
         </thead>
         <tbody>
-            {% for record in records %}
+            {% for record in records_without_clan %}
                 <tr>
                     <td>{{ record.record_type }}</td>
                     <td>{{ record.player }}</td>
-                    <td>
-                        {% if record.clans %}
-                          {{ record.clans|join:", " }}
-                        {% else %}
-                          Sem clã
-                        {% endif %}
-                      </td>
+                    <td>Sem clã</td>
                     <td>{{ record.value }}</td>
                     <td>{{ record.date }}</td>
                 </tr>

@@ -13,3 +13,15 @@ botar p fzr backups constantes - pega a data do ultimo backup com uma task, bota
 fazer a posição por gemas e só botar a posição de quem foi ripado
 
 adicionar o player, base template, etc... em um app separado, pensar em como arquiteturar isso depois
+
+lista dos criadores de conteudo, sites, etc... com links e descrição. isso deixar estatico mesmo no html
+
+gerar fixtures iniciais
+
+na pagina de recordes dizer que os dados vem do discord do batata, que envia por lá
+
+renomear de lbsb para algo mais generico
+
+python manage.py dumpdata records --indent 4 > records/fixtures/records.json 
+python manage.py dumpdata tournament --indent 4 > tournament/fixtures/tournament.json 
+python manage.py dumpdata core --indent 4 > core/fixtures/core.json 

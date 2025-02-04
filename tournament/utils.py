@@ -1,6 +1,6 @@
 from collections import defaultdict
-from tournament.models import Player, PlayerMatch, Tournament
-
+from tournament.models import PlayerMatch, Tournament
+from core.models import Player
 
 def get_kill_count_in_tournament(player_id, tournament_id):
     """Retorna o número de kills de um jogador em um torneio específico."""

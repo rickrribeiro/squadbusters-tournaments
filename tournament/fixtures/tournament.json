@@ -1,0 +1,21 @@
+[
+{
+    "model": "tournament.pointsformat",
+    "pk": 1,
+    "fields": {
+        "name": "LBSB",
+        "points1": 10,
+        "points2": 8,
+        "points3": 7,
+        "points4": 6,
+        "points5": 5,
+        "points6": 4,
+        "points7": 3,
+        "points8": 2,
+        "points9": 1,
+        "points10": 0,
+        "points_per_kill": 1,
+        "lost_points_per_death": 0
+    }
+}
+]

@@ -1,0 +1,499 @@
+[
+{
+    "model": "records.recordtype",
+    "pk": 1,
+    "fields": {
+        "name": "Sequência de vitórias",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 2,
+    "fields": {
+        "name": "Maior esquadrão",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 3,
+    "fields": {
+        "name": "pinhata finalizada",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 4,
+    "fields": {
+        "name": "bastão coletado",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 5,
+    "fields": {
+        "name": "pinhata equipe",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 6,
+    "fields": {
+        "name": "gemas coletadas",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 7,
+    "fields": {
+        "name": "partida rápida",
+        "unity": "minutos",
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 8,
+    "fields": {
+        "name": "maior fusão",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 9,
+    "fields": {
+        "name": "duo gemas",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 10,
+    "fields": {
+        "name": "xp partida",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 11,
+    "fields": {
+        "name": "evento: bastão natal",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 12,
+    "fields": {
+        "name": "moedas",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 13,
+    "fields": {
+        "name": "martelo guardado",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 14,
+    "fields": {
+        "name": "troféus",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 15,
+    "fields": {
+        "name": "botas",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 16,
+    "fields": {
+        "name": "anel",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 17,
+    "fields": {
+        "name": "baú raro",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 18,
+    "fields": {
+        "name": "xp",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 19,
+    "fields": {
+        "name": "martelo por partida",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 20,
+    "fields": {
+        "name": "baú épico",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 21,
+    "fields": {
+        "name": "bau comum",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 22,
+    "fields": {
+        "name": "evento: panqueca",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.recordtype",
+    "pk": 23,
+    "fields": {
+        "name": "evento: aboboras",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
+    "model": "records.record",
+    "pk": 1,
+    "fields": {
+        "record_type": 7,
+        "date": "2025-02-03",
+        "player": 1,
+        "value": 1.53
+    }
+},
+{
+    "model": "records.record",
+    "pk": 2,
+    "fields": {
+        "record_type": 1,
+        "date": "2025-02-03",
+        "player": 2,
+        "value": 6040.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 3,
+    "fields": {
+        "record_type": 2,
+        "date": "2025-02-03",
+        "player": 3,
+        "value": 73.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 4,
+    "fields": {
+        "record_type": 3,
+        "date": "2025-02-03",
+        "player": 4,
+        "value": 13900.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 5,
+    "fields": {
+        "record_type": 4,
+        "date": "2025-02-03",
+        "player": 5,
+        "value": 183.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 6,
+    "fields": {
+        "record_type": 5,
+        "date": "2025-02-03",
+        "player": 4,
+        "value": 48721.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 7,
+    "fields": {
+        "record_type": 6,
+        "date": "2025-02-03",
+        "player": 7,
+        "value": 3991.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 8,
+    "fields": {
+        "record_type": 8,
+        "date": "2025-02-03",
+        "player": 8,
+        "value": 46.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 9,
+    "fields": {
+        "record_type": 9,
+        "date": "2025-02-03",
+        "player": 1,
+        "value": 4591.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 10,
+    "fields": {
+        "record_type": 10,
+        "date": "2025-02-03",
+        "player": 9,
+        "value": 412.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 11,
+    "fields": {
+        "record_type": 11,
+        "date": "2025-02-03",
+        "player": 10,
+        "value": 88.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 12,
+    "fields": {
+        "record_type": 12,
+        "date": "2025-02-03",
+        "player": 11,
+        "value": 1035.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 13,
+    "fields": {
+        "record_type": 13,
+        "date": "2025-02-03",
+        "player": 12,
+        "value": 8504.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 14,
+    "fields": {
+        "record_type": 14,
+        "date": "2025-02-03",
+        "player": 2,
+        "value": 43353.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 15,
+    "fields": {
+        "record_type": 15,
+        "date": "2025-02-03",
+        "player": 2,
+        "value": 116.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 16,
+    "fields": {
+        "record_type": 16,
+        "date": "2025-02-03",
+        "player": 13,
+        "value": 9.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 17,
+    "fields": {
+        "record_type": 17,
+        "date": "2025-02-03",
+        "player": 14,
+        "value": 116.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 18,
+    "fields": {
+        "record_type": 18,
+        "date": "2025-02-03",
+        "player": 4,
+        "value": 218.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 19,
+    "fields": {
+        "record_type": 19,
+        "date": "2025-02-03",
+        "player": 1,
+        "value": 18.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 20,
+    "fields": {
+        "record_type": 21,
+        "date": "2025-02-03",
+        "player": 15,
+        "value": 108.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 21,
+    "fields": {
+        "record_type": 20,
+        "date": "2025-02-03",
+        "player": 16,
+        "value": 80.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 22,
+    "fields": {
+        "record_type": 5,
+        "date": "2025-02-03",
+        "player": 17,
+        "value": 48721.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 23,
+    "fields": {
+        "record_type": 5,
+        "date": "2025-02-03",
+        "player": 1,
+        "value": 48721.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 24,
+    "fields": {
+        "record_type": 5,
+        "date": "2025-02-03",
+        "player": 18,
+        "value": 48721.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 25,
+    "fields": {
+        "record_type": 5,
+        "date": "2025-02-03",
+        "player": 19,
+        "value": 48721.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 26,
+    "fields": {
+        "record_type": 9,
+        "date": "2025-02-03",
+        "player": 20,
+        "value": 4591.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 27,
+    "fields": {
+        "record_type": 22,
+        "date": "2025-02-03",
+        "player": 16,
+        "value": 69.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 28,
+    "fields": {
+        "record_type": 23,
+        "date": "2025-02-03",
+        "player": 21,
+        "value": 168.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 29,
+    "fields": {
+        "record_type": 13,
+        "date": "2025-02-03",
+        "player": 22,
+        "value": 11459.0
+    }
+}
+]

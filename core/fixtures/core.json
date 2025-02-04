@@ -1,0 +1,242 @@
+[
+{
+    "model": "core.clan",
+    "pk": 1,
+    "fields": {
+        "name": "RTK",
+        "logo": ""
+    }
+},
+{
+    "model": "core.clan",
+    "pk": 2,
+    "fields": {
+        "name": "CDE",
+        "logo": ""
+    }
+},
+{
+    "model": "core.clan",
+    "pk": 3,
+    "fields": {
+        "name": "SME",
+        "logo": ""
+    }
+},
+{
+    "model": "core.clan",
+    "pk": 4,
+    "fields": {
+        "name": "GOD",
+        "logo": ""
+    }
+},
+{
+    "model": "core.clan",
+    "pk": 5,
+    "fields": {
+        "name": "LOD",
+        "logo": ""
+    }
+},
+{
+    "model": "core.clan",
+    "pk": 6,
+    "fields": {
+        "name": "RSD",
+        "logo": ""
+    }
+},
+{
+    "model": "core.clan",
+    "pk": 7,
+    "fields": {
+        "name": "GO",
+        "logo": ""
+    }
+},
+{
+    "model": "core.clan",
+    "pk": 8,
+    "fields": {
+        "name": "QST",
+        "logo": ""
+    }
+},
+{
+    "model": "core.player",
+    "pk": 1,
+    "fields": {
+        "nick": "RTK|*CiriLoOh*",
+        "clan": 1
+    }
+},
+{
+    "model": "core.player",
+    "pk": 2,
+    "fields": {
+        "nick": "RTK | D4RK",
+        "clan": 1
+    }
+},
+{
+    "model": "core.player",
+    "pk": 3,
+    "fields": {
+        "nick": "CDE| Mivera",
+        "clan": 2
+    }
+},
+{
+    "model": "core.player",
+    "pk": 4,
+    "fields": {
+        "nick": "Lordjhonny",
+        "clan": 1
+    }
+},
+{
+    "model": "core.player",
+    "pk": 5,
+    "fields": {
+        "nick": "<<G_A_B_R_I_E_L>>",
+        "clan": 2
+    }
+},
+{
+    "model": "core.player",
+    "pk": 6,
+    "fields": {
+        "nick": "rickrribeir",
+        "clan": 1
+    }
+},
+{
+    "model": "core.player",
+    "pk": 7,
+    "fields": {
+        "nick": "imjustbetterTM",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 8,
+    "fields": {
+        "nick": "VictorMandarino(ver nick depois)",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 9,
+    "fields": {
+        "nick": "SuperSalvo1101(ver nick depois)",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 10,
+    "fields": {
+        "nick": "CDE | Tavin",
+        "clan": 2
+    }
+},
+{
+    "model": "core.player",
+    "pk": 11,
+    "fields": {
+        "nick": "CDE | GilmaR33",
+        "clan": 2
+    }
+},
+{
+    "model": "core.player",
+    "pk": 12,
+    "fields": {
+        "nick": "GOD JHOSEFER",
+        "clan": 4
+    }
+},
+{
+    "model": "core.player",
+    "pk": 13,
+    "fields": {
+        "nick": "@_juannicolass",
+        "clan": 1
+    }
+},
+{
+    "model": "core.player",
+    "pk": 14,
+    "fields": {
+        "nick": "Henrique OAK(ver nick depois)",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 15,
+    "fields": {
+        "nick": "Batata Gameplay",
+        "clan": 2
+    }
+},
+{
+    "model": "core.player",
+    "pk": 16,
+    "fields": {
+        "nick": "Lucas (ver nick depois)",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 17,
+    "fields": {
+        "nick": "okka",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 18,
+    "fields": {
+        "nick": "Drogo",
+        "clan": 1
+    }
+},
+{
+    "model": "core.player",
+    "pk": 19,
+    "fields": {
+        "nick": "ErChosky",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 20,
+    "fields": {
+        "nick": "Kloñap",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 21,
+    "fields": {
+        "nick": "FACUreig(ver nick depois)",
+        "clan": null
+    }
+},
+{
+    "model": "core.player",
+    "pk": 22,
+    "fields": {
+        "nick": "Arthur",
+        "clan": 1
+    }
+}
+]

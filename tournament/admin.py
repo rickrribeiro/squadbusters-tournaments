@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Clan, Player, Tournament, TournamentMatch, PlayerMatch, PointsFormat
+from .models import Tournament, TournamentMatch, PlayerMatch, PointsFormat
 
 class PlayerMatchInline(admin.TabularInline):
     model = PlayerMatch
@@ -9,24 +9,13 @@ class PlayerMatchInline(admin.TabularInline):
     autocomplete_fields = ("player", "killed_by")
     
 
-@admin.register(Clan)
-class ClanAdmin(admin.ModelAdmin):
-    list_display = ("name", "logo")
-    search_fields = ("name",)
-
-
-@admin.register(Player)
-class PlayerAdmin(admin.ModelAdmin):
-    list_display = ("nick", "clan")
-    search_fields = ("nick",)
-    list_filter = ("clan",)
-
 
 @admin.register(Tournament)
 class TournamentAdmin(admin.ModelAdmin):
     # list_display = ("name", "tournament_type", "clan1", "clan2", "date", "pointsFormat")
     search_fields = ("name",)
     list_filter = ("tournament_type", "date")
+    autocomplete_fields = ("clan1","clan2")
 
 
 @admin.register(TournamentMatch)
@@ -41,6 +30,7 @@ class PlayerMatchAdmin(admin.ModelAdmin):
     list_display = ("player", "tournament_match", "gems", "killed_by", "clan")
     search_fields = ("player__nick", "tournament_match__tournament__name")
     list_filter = ("clan",)
+    autocomplete_fields = ("player","killed_by",)
 
 
 @admin.register(PointsFormat)
