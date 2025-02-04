@@ -207,6 +207,15 @@
     }
 },
 {
+    "model": "records.recordtype",
+    "pk": 24,
+    "fields": {
+        "name": "vale estilo",
+        "unity": null,
+        "order_type": "biggest"
+    }
+},
+{
     "model": "records.record",
     "pk": 1,
     "fields": {
@@ -494,6 +503,16 @@
         "date": "2025-02-03",
         "player": 22,
         "value": 11459.0
+    }
+},
+{
+    "model": "records.record",
+    "pk": 30,
+    "fields": {
+        "record_type": 24,
+        "date": "2025-02-04",
+        "player": 11,
+        "value": 21430.0
     }
 }
 ]
