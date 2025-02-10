@@ -514,5 +514,15 @@
         "player": 11,
         "value": 21430.0
     }
+},
+{
+    "model": "records.record",
+    "pk": 31,
+    "fields": {
+        "record_type": 8,
+        "date": "2025-02-08",
+        "player": 6,
+        "value": 48.0
+    }
 }
 ]

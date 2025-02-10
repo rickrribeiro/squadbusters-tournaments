@@ -1,0 +1,46 @@
+{% load static %}
+
+<body>
+    <link rel="stylesheet" href="{% static 'css/navbar.css' %}">
+    <nav>
+        <div class="logo">
+            {% comment %} <img src="assets/Logo64x64.png" alt="logo" /> {% endcomment %}
+            <h1>Squad Busters Brasil</h1>
+        </div>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="/tournaments">Torneios</a></li>
+            <li class="dropdown">
+                <a href="#">Records</a>
+                <ul class="dropdown-menu">
+                    <li><a href="/records">Geral</a></li>
+                    <li><a href="/records/clans">Clans</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Clans</a></li>
+            <li><a href="#">Criadores</a></li>
+            <li><a href="#">Sobre/Contato</a></li>
+        </ul>
+        <div class="hamburger">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+        </div>
+    </nav>
+    <div class="menubar">
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Torneios</a></li>
+            <li class="dropdown">
+                <a href="#">Records</a>
+                <ul class="dropdown-menu">
+                    <li><a href="/records">Records Gerais</a></li>
+                    <li><a href="/records/clans">Records de Clans</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Clans</a></li>
+            <li><a href="#">Sobre/Contato</a></li>
+        </ul>
+    </div>
+    <script src="{% static 'js/navbar.js' %}"></script>
+</body>

@@ -22,6 +22,8 @@ na pagina de recordes dizer que os dados vem do discord do batata, que envia por
 
 renomear de lbsb para algo mais generico
 
+add lideres do clã(por texto escrito), botar algum link
+
 python manage.py dumpdata records --indent 4 > records/fixtures/records.json 
 python manage.py dumpdata tournament --indent 4 > tournament/fixtures/tournament.json 
 python manage.py dumpdata core --indent 4 > core/fixtures/core.json 
