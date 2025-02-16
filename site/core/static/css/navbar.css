@@ -32,7 +32,7 @@ nav .logo img {
 }
 nav .logo h1 {
   font-size: 1.1rem;
-  /* background: linear-gradient(to right, #b927fc 0%, #2c64fc 100%); */
+  background: linear-gradient(to right, #b927fc 0%, #2c64fc 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
