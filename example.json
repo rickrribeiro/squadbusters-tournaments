@@ -1,0 +1,1344 @@
+    {
+        "end_game_milestones": [
+            1600000,
+            1600001,
+            1600002,
+            1600003,
+            1600004,
+            1600040,
+            1600041,
+            1600042,
+            1600043,
+            1600044,
+            1600020,
+            1600021,
+            1600022,
+            1600023,
+            1600024,
+            1600025,
+            1600026,
+            1600027,
+            1600028,
+            1600029,
+            1600045,
+            1600046,
+            1600047,
+            1600048,
+            1600049,
+            1600005,
+            1600006,
+            1600007,
+            1600008,
+            1600009,
+            1600085,
+            1600086,
+            1600087,
+            1600088,
+            1600089,
+            1600090,
+            1600091,
+            1600092,
+            1600093,
+            1600094,
+            1600060,
+            1600061,
+            1600062,
+            1600063,
+            1600064,
+            1600065,
+            1600066,
+            1600067,
+            1600068,
+            1600069,
+            1600055,
+            1600056,
+            1600057,
+            1600058,
+            1600059,
+            1600035,
+            1600036,
+            1600037,
+            1600038,
+            1600039,
+            1600015,
+            1600016,
+            1600017,
+            1600018,
+            1600019,
+            1600050,
+            1600051,
+            1600052,
+            1600053,
+            1600054,
+            1600070,
+            1600071,
+            1600072,
+            1600073,
+            1600074,
+            1600030,
+            1600031,
+            1600032,
+            1600033,
+            1600034,
+            1600080,
+            1600081,
+            1600082,
+            1600083,
+            1600084,
+            1600010,
+            1600011,
+            1600012,
+            1600013,
+            1600014,
+            1600075,
+            1600076,
+            1600077,
+            1600078,
+            1600079,
+            1600095,
+            1600096,
+            1600097,
+            1600098,
+            1600099
+        ],
+        "emos": [
+            4200000,
+            4200001,
+            4200002,
+            4200003,
+            4200004,
+            4200005,
+            4200006,
+            4200007,
+            4200008,
+            4200009,
+            4200356,
+            4200010,
+            4200011,
+            4200273,
+            4200252,
+            4200266,
+            4200012,
+            4200013,
+            4200014,
+            4200274,
+            4200253,
+            4200264,
+            4200016,
+            4200275,
+            4200280,
+            4200256,
+            4200018,
+            4200019,
+            4200020,
+            4200281,
+            4200276,
+            4200267,
+            4200021,
+            4200133,
+            4200022,
+            4200032,
+            4200024,
+            4200025,
+            4200286,
+            4200288,
+            4200251,
+            4200026,
+            4200027,
+            4200269,
+            4200245,
+            4200271,
+            4200028,
+            4200029,
+            4200268,
+            4200261,
+            4200289,
+            4200035,
+            4200036,
+            4200030,
+            4200037,
+            4200031,
+            4200255,
+            4200254,
+            4200263,
+            4200015,
+            4200257,
+            4200247,
+            4200278,
+            4200023,
+            4200033,
+            4200295,
+            4200348,
+            4200375,
+            4200327,
+            4200270,
+            4200323,
+            4200382,
+            4200306,
+            4200315,
+            4200338,
+            4200365,
+            4200290,
+            4200377,
+            4200347,
+            4200034,
+            4200373,
+            4200345,
+            4200368,
+            4200394,
+            4200395,
+            4200396,
+            4200397,
+            4200398,
+            4200399,
+            4200350,
+            4200017,
+            4200392,
+            4200292,
+            4200343,
+            4200389,
+            4200299,
+            4200367,
+            4200272,
+            4200328,
+            4200401,
+            4200314,
+            4200407,
+            4200307,
+            4200259,
+            4200283,
+            4200414,
+            4200416,
+            4200420,
+            4200419,
+            4200418,
+            4200417,
+            4200340,
+            4200400,
+            4200415,
+            4200371,
+            4200412,
+            4200318,
+            4200248,
+            4200249,
+            4200309,
+            4200308,
+            4200408,
+            4200297,
+            4200337,
+            4200330,
+            4200304,
+            4200402,
+            4200287,
+            4200383,
+            4200386,
+            4200311,
+            4200332,
+            4200406,
+            4200359,
+            4200411,
+            4200335,
+            4200279,
+            4200312,
+            4200324,
+            4200387,
+            4200303,
+            4200316,
+            4200404,
+            4200301,
+            4200321,
+            4200305,
+            4200409,
+            4200358,
+            4200250,
+            4200293,
+            4200319,
+            4200265,
+            4200363,
+            4200334,
+            4200376,
+            4200366,
+            4200333,
+            4200413,
+            4200277,
+            4200360,
+            4200379,
+            4200336,
+            4200384,
+            4200331,
+            4200342,
+            4200352,
+            4200294,
+            4200361,
+            4200246,
+            4200285,
+            4200341,
+            4200344,
+            4200403,
+            4200423,
+            4200320,
+            4200325,
+            4200300,
+            4200322,
+            4200298,
+            4200291,
+            4200390,
+            4200378,
+            4200302,
+            4200349,
+            4200346,
+            4200313,
+            4200351,
+            4200410,
+            4200385,
+            4200388,
+            4200317,
+            4200339,
+            4200310,
+            4200260,
+            4200362,
+            4200258,
+            4200284,
+            4200364,
+            4200282,
+            4200381,
+            4200326,
+            4200262,
+            4200391,
+            4200380,
+            4200296,
+            4200357,
+            4200329,
+            4200405
+        ],
+        "selEmos": [
+            4200265,
+            4200266,
+            4200268,
+            4200020
+        ],
+        "chars": {
+            "c": [
+                {
+                    "data": 800000,
+                    "skin": 5500535,
+                    "lvl": 3,
+                    "useCount": 7257,
+                    "materialC": [
+                        9,
+                        8,
+                        1,
+                        6,
+                        0
+                    ],
+                    "Name": "Barbarian",
+                    "Rarity": 0,
+                    "FormationRole": "melee",
+                    "IP": "Clash",
+                    "Position": "front",
+                    "Class": "AllRounder"
+                },
+                {
+                    "data": 800005,
+                    "skin": 5500302,
+                    "lvl": 3,
+                    "useCount": 2333,
+                    "materialC": [
+                        1,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "ElPrimo",
+                    "Rarity": 0,
+                    "FormationRole": "melee",
+                    "IP": "Brawl",
+                    "Position": "defender",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800002,
+                    "lvl": 4,
+                    "forceLeft": 1,
+                    "useCount": 1983,
+                    "materialC": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Greg",
+                    "Rarity": 0,
+                    "FormationRole": "melee",
+                    "IP": "HayDay",
+                    "Position": "front",
+                    "Class": "SupportEconomy"
+                },
+                {
+                    "data": 800004,
+                    "lvl": 4,
+                    "useCount": 4162,
+                    "materialC": [
+                        0,
+                        7,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Colt",
+                    "Rarity": 0,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800035,
+                    "skin": 5500537,
+                    "lvl": 3,
+                    "useCount": 1301,
+                    "materialC": [
+                        3,
+                        5,
+                        4,
+                        3,
+                        0
+                    ],
+                    "Name": "Medic",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Boom",
+                    "Position": "back",
+                    "Class": "SupportHealer"
+                },
+                {
+                    "data": 800096,
+                    "skin": 5500123,
+                    "lvl": 3,
+                    "useCount": 4456,
+                    "materialC": [
+                        2,
+                        8,
+                        5,
+                        3,
+                        0
+                    ],
+                    "Name": "Barbarian King",
+                    "Rarity": 2,
+                    "FormationRole": "melee",
+                    "IP": "Clash",
+                    "Position": "defender",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800044,
+                    "lvl": 3,
+                    "useCount": 3822,
+                    "materialC": [
+                        0,
+                        5,
+                        4,
+                        3,
+                        0
+                    ],
+                    "Name": "Dynamike",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800267,
+                    "lvl": 4,
+                    "useCount": 3954,
+                    "materialC": [
+                        6,
+                        2,
+                        6,
+                        0,
+                        1
+                    ],
+                    "Name": "Archer Queen",
+                    "Rarity": 2,
+                    "FormationRole": "ranged",
+                    "IP": "Clash",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800001,
+                    "skin": 5500238,
+                    "lvl": 3,
+                    "useCount": 1116,
+                    "materialC": [
+                        6,
+                        1,
+                        4,
+                        6,
+                        0
+                    ],
+                    "Name": "Goblin",
+                    "Rarity": 0,
+                    "FormationRole": "melee",
+                    "IP": "Clash",
+                    "Position": "front",
+                    "Class": "SupportEconomy"
+                },
+                {
+                    "data": 800008,
+                    "skin": 5500019,
+                    "lvl": 3,
+                    "useCount": 2700,
+                    "materialC": [
+                        6,
+                        2,
+                        1,
+                        7,
+                        0
+                    ],
+                    "Name": "Chicken",
+                    "Rarity": 0,
+                    "FormationRole": "melee",
+                    "IP": "HayDay",
+                    "Position": "front",
+                    "Class": "Speedster"
+                },
+                {
+                    "data": 800007,
+                    "lvl": 4,
+                    "useCount": 1218,
+                    "materialC": [
+                        6,
+                        2,
+                        6,
+                        0,
+                        1
+                    ],
+                    "Name": "Witch",
+                    "Rarity": 2,
+                    "FormationRole": "ranged",
+                    "IP": "Clash",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800047,
+                    "lvl": 4,
+                    "useCount": 1091,
+                    "materialC": [
+                        9,
+                        4,
+                        8,
+                        6,
+                        1
+                    ],
+                    "Name": "Bo",
+                    "Rarity": 0,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800006,
+                    "skin": 5500266,
+                    "lvl": 3,
+                    "useCount": 8999,
+                    "materialC": [
+                        9,
+                        4,
+                        8,
+                        1
+                    ],
+                    "Name": "Shelly",
+                    "Rarity": 0,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "front",
+                    "Class": "AllRounder"
+                },
+                {
+                    "data": 800018,
+                    "skin": 5500030,
+                    "lvl": 3,
+                    "useCount": 1095,
+                    "materialC": [
+                        5,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Nita",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800049,
+                    "skin": 5500575,
+                    "lvl": 3,
+                    "useCount": 3517,
+                    "materialC": [
+                        2,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Trader",
+                    "Rarity": 0,
+                    "FormationRole": "melee",
+                    "IP": "Clash",
+                    "Position": "front",
+                    "Class": "SupportEconomy"
+                },
+                {
+                    "data": 800003,
+                    "skin": 5500210,
+                    "lvl": 3,
+                    "useCount": 3607,
+                    "materialC": [
+                        9,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Mavis",
+                    "Rarity": 0,
+                    "FormationRole": "ranged",
+                    "IP": "HayDay",
+                    "Position": "back",
+                    "Class": "SupportEconomy"
+                },
+                {
+                    "data": 800122,
+                    "skin": 5500572,
+                    "lvl": 3,
+                    "useCount": 3741,
+                    "materialC": [
+                        0,
+                        3,
+                        0,
+                        1
+                    ],
+                    "Name": "Bea",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800075,
+                    "skin": 5500102,
+                    "lvl": 3,
+                    "useCount": 4014,
+                    "materialC": [
+                        7,
+                        1,
+                        3,
+                        8,
+                        0
+                    ],
+                    "Name": "Hog Rider",
+                    "Rarity": 1,
+                    "FormationRole": "melee",
+                    "IP": "Clash",
+                    "Position": "front",
+                    "Class": "Speedster"
+                },
+                {
+                    "data": 800037,
+                    "skin": 5500250,
+                    "lvl": 3,
+                    "useCount": 1257,
+                    "materialC": [
+                        0,
+                        2,
+                        3,
+                        1
+                    ],
+                    "Name": "Mortis",
+                    "Rarity": 2,
+                    "FormationRole": "melee",
+                    "IP": "Brawl",
+                    "Position": "front",
+                    "Class": "AllRounder"
+                },
+                {
+                    "data": 800011,
+                    "skin": 5500023,
+                    "lvl": 3,
+                    "useCount": 542,
+                    "materialC": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Heavy",
+                    "Rarity": 0,
+                    "FormationRole": "ranged",
+                    "IP": "Boom",
+                    "Position": "defender",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800012,
+                    "skin": 5500291,
+                    "lvl": 3,
+                    "useCount": 637,
+                    "materialC": [
+                        7,
+                        2,
+                        0,
+                        1
+                    ],
+                    "Name": "RoyaleKing",
+                    "Rarity": 2,
+                    "FormationRole": "melee",
+                    "IP": "Royale",
+                    "Position": "defender",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800079,
+                    "skin": 5500272,
+                    "lvl": 3,
+                    "useCount": 1350,
+                    "materialC": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Penny",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "SupportEconomy"
+                },
+                {
+                    "data": 800040,
+                    "skin": 5500261,
+                    "lvl": 3,
+                    "useCount": 1743,
+                    "materialC": [
+                        8,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Wizard",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Clash",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800093,
+                    "lvl": 3,
+                    "useCount": 2530,
+                    "materialC": [
+                        9,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Jessie",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800041,
+                    "lvl": 3,
+                    "useCount": 2396,
+                    "materialC": [
+                        9,
+                        9,
+                        0,
+                        1
+                    ],
+                    "Name": "IceWizard",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Clash",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800043,
+                    "skin": 5500058,
+                    "lvl": 3,
+                    "useCount": 1691,
+                    "materialC": [
+                        9,
+                        8,
+                        5,
+                        1
+                    ],
+                    "Name": "BattleHealer",
+                    "Rarity": 2,
+                    "FormationRole": "melee",
+                    "IP": "Royale",
+                    "Position": "front",
+                    "Class": "SupportHealer"
+                },
+                {
+                    "data": 800068,
+                    "lvl": 3,
+                    "useCount": 386,
+                    "materialC": [
+                        0,
+                        4,
+                        0,
+                        1
+                    ],
+                    "Name": "DrT",
+                    "Rarity": 2,
+                    "FormationRole": "melee",
+                    "IP": "Boom",
+                    "Position": "front",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800050,
+                    "skin": 5500071,
+                    "lvl": 3,
+                    "useCount": 819,
+                    "materialC": [
+                        7,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Pam",
+                    "Rarity": 1,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "SupportHealer"
+                },
+                {
+                    "data": 800109,
+                    "skin": 5500289,
+                    "lvl": 3,
+                    "useCount": 2680,
+                    "materialC": [
+                        7,
+                        3,
+                        0,
+                        1
+                    ],
+                    "Name": "Tank Girl",
+                    "Rarity": 1,
+                    "FormationRole": "melee",
+                    "IP": "Boom",
+                    "Position": "front",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800046,
+                    "skin": 5500259,
+                    "lvl": 3,
+                    "useCount": 2443,
+                    "materialC": [
+                        6,
+                        6,
+                        1,
+                        1
+                    ],
+                    "Name": "Max",
+                    "Rarity": 2,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Speedster"
+                },
+                {
+                    "data": 800038,
+                    "lvl": 3,
+                    "useCount": 1202,
+                    "materialC": [
+                        8,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Bandit",
+                    "Rarity": 1,
+                    "FormationRole": "melee",
+                    "IP": "Royale",
+                    "Position": "front",
+                    "Class": "SupportEconomy"
+                },
+                {
+                    "data": 800016,
+                    "lvl": 3,
+                    "useCount": 965,
+                    "materialC": [
+                        6,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Archer",
+                    "Rarity": 0,
+                    "FormationRole": "ranged",
+                    "IP": "Royale",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800141,
+                    "lvl": 3,
+                    "useCount": 1260,
+                    "materialC": [
+                        3,
+                        3,
+                        0,
+                        1
+                    ],
+                    "Name": "Miner",
+                    "Rarity": 1,
+                    "FormationRole": "melee",
+                    "IP": "Royale",
+                    "Position": "front",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800019,
+                    "skin": 5500216,
+                    "lvl": 3,
+                    "useCount": 1254,
+                    "materialC": [
+                        4,
+                        1,
+                        0,
+                        1
+                    ],
+                    "Name": "Leon",
+                    "Rarity": 2,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Speedster"
+                },
+                {
+                    "data": 800324,
+                    "lvl": 2,
+                    "useCount": 703,
+                    "materialC": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "Name": "OptimusPrime",
+                    "Rarity": 2,
+                    "FormationRole": "melee",
+                    "IP": "Transformers",
+                    "Position": "defender",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800325,
+                    "lvl": 2,
+                    "useCount": 456,
+                    "materialC": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "Name": "ElitaOne",
+                    "Rarity": 2,
+                    "FormationRole": "ranged",
+                    "IP": "Transformers",
+                    "Position": "back",
+                    "Class": "Attacker"
+                },
+                {
+                    "data": 800323,
+                    "lvl": 3,
+                    "useCount": 156,
+                    "materialC": [
+                        3,
+                        1,
+                        0,
+                        1
+                    ],
+                    "Name": "Frank",
+                    "Rarity": 1,
+                    "FormationRole": "melee",
+                    "IP": "Clash",
+                    "Position": "defender",
+                    "Class": "Defender"
+                },
+                {
+                    "data": 800014,
+                    "skin": 5500027,
+                    "lvl": 3,
+                    "useCount": 3590,
+                    "materialC": [
+                        9,
+                        4,
+                        0,
+                        1
+                    ],
+                    "Name": "Poco",
+                    "Rarity": 0,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "SupportHealer"
+                },
+                {
+                    "data": 800149,
+                    "lvl": 3,
+                    "useCount": 2475,
+                    "materialC": [
+                        4,
+                        0,
+                        0,
+                        1
+                    ],
+                    "Name": "Colonel Ruffs",
+                    "Rarity": 2,
+                    "FormationRole": "ranged",
+                    "IP": "Brawl",
+                    "Position": "back",
+                    "Class": "Attacker"
+                }
+            ],
+            "s": [
+                2700000,
+                2700002,
+                2700015,
+                2700007,
+                2700010,
+                2700008,
+                2700012,
+                2700014,
+                2700024
+            ],
+            "seen": [
+                875007,
+                449384,
+                536905744,
+                67117057,
+                2105344,
+                0,
+                0,
+                0,
+                2048,
+                58732800,
+                56
+            ],
+            "seenSpells": [
+                25286021
+            ],
+            "lastUnlock": 800149,
+            "luct": 1729833203,
+            "lcmt": 1740357789,
+            "lcut": 1740357796
+        },
+        "resources": [
+            {
+                "name": "UNUSED",
+                "value": 100
+            },
+            {
+                "name": "GachaChestToken",
+                "value": null
+            },
+            {
+                "name": "Gems",
+                "value": 209291
+            },
+            {
+                "name": "RerollTokens",
+                "value": null
+            },
+            {
+                "name": "Hammers",
+                "value": null
+            },
+            {
+                "name": "KeyNormal",
+                "value": null
+            },
+            {
+                "name": "KeyUpgrade",
+                "value": null
+            },
+            {
+                "name": "KeyFusion",
+                "value": null
+            },
+            {
+                "name": "PortalEnergy",
+                "value": 260
+            },
+            {
+                "name": "Event_PinataStick",
+                "value": 1390
+            },
+            {
+                "name": "WorldReleaseEventTokens",
+                "value": 35
+            },
+            {
+                "name": "SpellReleaseEventTokens",
+                "value": null
+            },
+            {
+                "name": "BanditReleaseEventTokens",
+                "value": null
+            },
+            {
+                "name": "ChestDoubler2x",
+                "value": 26
+            },
+            {
+                "name": "ChestDoubler3x",
+                "value": null
+            },
+            {
+                "name": "ChestDoubler4x",
+                "value": null
+            },
+            {
+                "name": "Cosmetic",
+                "value": 6785
+            },
+            {
+                "name": "StarUps",
+                "value": 353
+            },
+            {
+                "name": "WorldReleaseEventTokens_Lava",
+                "value": 61
+            },
+            {
+                "name": "WorldReleaseEventTokens_Optimus",
+                "value": 2823
+            },
+            {
+                "name": "WorldReleaseEventTokens_Elita",
+                "value": 3322
+            },
+            {
+                "name": "WorldReleaseEventTokens_Spooky",
+                "value": 188
+            },
+            {
+                "name": "WorldReleaseEventTokens_Hatchling",
+                "value": 1039
+            },
+            {
+                "name": "WorldReleaseEventTokens_Xmas",
+                "value": 2950
+            }
+        ],
+        "avatar_stats": [
+            {
+                "name": "BUSTED_SQUADS",
+                "value": 9703
+            },
+            {
+                "name": "BOSS_KILLS",
+                "value": 14200
+            },
+            {
+                "name": "MAX_GEMS_PER_SOLO_GAME",
+                "value": 2491
+            },
+            {
+                "name": "TOTAL_GEMS_COLLECTED",
+                "value": 2053763
+            },
+            {
+                "name": "BIGGEST_SQUAD",
+                "value": 59
+            },
+            {
+                "name": "FIRST_PLACE_SINGLE",
+                "value": 2290
+            },
+            {
+                "name": "TOP3_SINGLE",
+                "value": 4168
+            },
+            {
+                "name": "HIGHEST_TROPHIES",
+                "value": 8051
+            },
+            {
+                "name": "MATCHES_PLAYED",
+                "value": 5406
+            },
+            {
+                "name": "PARTY_MATCHES_PLAYED",
+                "value": 1560
+            },
+            {
+                "name": "SUPER_BOSS_KILLS",
+                "value": 1313
+            },
+            {
+                "name": "MAX_FUSIONS_PER_GAME",
+                "value": 48
+            },
+            {
+                "name": "TOTAL_FUSIONS",
+                "value": 21828
+            },
+            {
+                "name": "LONGEST_TOP_STREAK",
+                "value": 342
+            }
+        ],
+        "variables": [
+            {
+                "name": "RecentlyPromotedMatches",
+                "value": null
+            },
+            {
+                "name": "StartingTutorialComplete",
+                "value": 1
+            },
+            {
+                "name": "RewardTrackSequenceIndexFTUE",
+                "value": 1
+            },
+            {
+                "name": "Latency1Region",
+                "value": null
+            },
+            {
+                "name": "Latency1Ms",
+                "value": 128
+            },
+            {
+                "name": "Latency2Region",
+                "value": 9
+            },
+            {
+                "name": "Latency2Ms",
+                "value": 128
+            },
+            {
+                "name": "Latency3Region",
+                "value": 16
+            },
+            {
+                "name": "Latency3Ms",
+                "value": 136
+            },
+            {
+                "name": "GachaDropsGiven",
+                "value": 4369
+            },
+            {
+                "name": "RewardTrackPremiumUnlocked",
+                "value": 1
+            },
+            {
+                "name": "RewardTrackCurrentTrackSequenceChronosID",
+                "value": 3526
+            },
+            {
+                "name": "RewardTrackRewardClaimedIndex",
+                "value": 30
+            },
+            {
+                "name": "RewardTrackRewardPremiumClaimedIndex",
+                "value": 30
+            },
+            {
+                "name": "GachaSizeSequenceIndex",
+                "value": null
+            },
+            {
+                "name": "GachaRaritySequenceIndex",
+                "value": 49
+            },
+            {
+                "name": "BattleBagUnlocked",
+                "value": 1
+            },
+            {
+                "name": "GachaDropsSinceNewCharacter",
+                "value": 2495
+            },
+            {
+                "name": "PlazaBuildingsUnlocked",
+                "value": 1
+            },
+            {
+                "name": "Top3Streak",
+                "value": 14
+            },
+            {
+                "name": "RewardTrackPremiumMegaBankClaimedCount",
+                "value": 55
+            },
+            {
+                "name": "IncompleteSpellReleaseEventsSinceSpell",
+                "value": null
+            },
+            {
+                "name": "RewardTrackFTUEComplete",
+                "value": 1
+            },
+            {
+                "name": "IncompleteBanditEventsSinceReward",
+                "value": null
+            },
+            {
+                "name": "DoublerInUse",
+                "value": 1
+            },
+            {
+                "name": "StarChestsUnlocked",
+                "value": 1
+            }
+        ],
+        "other": [
+            {
+                "name": "exp",
+                "value": 148
+            },
+            {
+                "name": "expGained",
+                "value": 5932
+            },
+            {
+                "name": "SQTrophies",
+                "value": 6711
+            },
+            {
+                "name": "SQLevel",
+                "value": 536
+            },
+            {
+                "name": "somethingSQRelated",
+                "value": 179
+            },
+            {
+                "name": "a",
+                "value": 64
+            },
+            {
+                "name": "nbSquadLeagueGames",
+                "value": 2883
+            }
+        ]
+    }
